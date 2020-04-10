@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">libcommon</string>
+    <declare-styleable name="viewOutLineStrategy">
+        <attr format="dimension" name="clip_radius"/>
+        <attr format="enum" name="clip_side">
+            <enum name="all" value="0"/>
+            <enum name="left" value="1"/>
+            <enum name="top" value="2"/>
+            <enum name="right" value="3"/>
+            <enum name="bottom" value="4"/>
+        </attr>
+    </declare-styleable>
+</resources>

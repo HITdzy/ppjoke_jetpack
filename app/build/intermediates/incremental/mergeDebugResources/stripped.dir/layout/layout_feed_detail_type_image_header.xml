@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+                                                        
+
+    
+
+                 
+                       
+                                                
+
+                                                                  
+           
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/color_white"
+        android:orientation="vertical" android:tag="layout/layout_feed_detail_type_image_header_0" xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+
+        <include
+            layout="@layout/layout_feed_detail_author_info"
+                              
+                                     
+                                                  ></include>
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/dp_10"></View>
+
+        <include
+            layout="@layout/layout_feed_text"
+                                             
+                               ></include>
+
+        <com.mooc.ppjoke.view.PPImageView
+            android:id="@+id/header_image"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="@dimen/dp_10"></com.mooc.ppjoke.view.PPImageView>
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/dp_10"
+            android:layout_marginTop="6dp"
+            android:background="@color/color_divider"></View>
+
+    </LinearLayout>
+         

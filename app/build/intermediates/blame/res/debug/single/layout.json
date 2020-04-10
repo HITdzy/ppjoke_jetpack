@@ -1,0 +1,110 @@
+[
+    {
+        "merged": "D:\\bishe1\\ppjoke_jetpack\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_feed_detail_type_image.xml",
+        "source": "D:\\bishe1\\ppjoke_jetpack\\app\\src\\main\\res\\layout\\activity_feed_detail_type_image.xml"
+    },
+    {
+        "merged": "D:\\bishe1\\ppjoke_jetpack\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\layout_comment_dialog.xml",
+        "source": "D:\\bishe1\\ppjoke_jetpack\\app\\src\\main\\res\\layout\\layout_comment_dialog.xml"
+    },
+    {
+        "merged": "D:\\bishe1\\ppjoke_jetpack\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_layout_preview.xml",
+        "source": "D:\\bishe1\\ppjoke_jetpack\\app\\src\\main\\res\\layout\\activity_layout_preview.xml"
+    },
+    {
+        "merged": "D:\\bishe1\\ppjoke_jetpack\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\layout_refresh_view.xml",
+        "source": "D:\\bishe1\\ppjoke_jetpack\\app\\src\\main\\res\\layout\\layout_refresh_view.xml"
+    },
+    {
+        "merged": "D:\\bishe1\\ppjoke_jetpack\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\layout_feed_detail_type_image_header.xml",
+        "source": "D:\\bishe1\\ppjoke_jetpack\\app\\src\\main\\res\\layout\\layout_feed_detail_type_image_header.xml"
+    },
+    {
+        "merged": "D:\\bishe1\\ppjoke_jetpack\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\layout_tag_list_item.xml",
+        "source": "D:\\bishe1\\ppjoke_jetpack\\app\\src\\main\\res\\layout\\layout_tag_list_item.xml"
+    },
+    {
+        "merged": "D:\\bishe1\\ppjoke_jetpack\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_layout_capture.xml",
+        "source": "D:\\bishe1\\ppjoke_jetpack\\app\\src\\main\\res\\layout\\activity_layout_capture.xml"
+    },
+    {
+        "merged": "D:\\bishe1\\ppjoke_jetpack\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_layout_profile.xml",
+        "source": "D:\\bishe1\\ppjoke_jetpack\\app\\src\\main\\res\\layout\\activity_layout_profile.xml"
+    },
+    {
+        "merged": "D:\\bishe1\\ppjoke_jetpack\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\layout_feed_tag.xml",
+        "source": "D:\\bishe1\\ppjoke_jetpack\\app\\src\\main\\res\\layout\\layout_feed_tag.xml"
+    },
+    {
+        "merged": "D:\\bishe1\\ppjoke_jetpack\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\layout_feed_comment_list_item.xml",
+        "source": "D:\\bishe1\\ppjoke_jetpack\\app\\src\\main\\res\\layout\\layout_feed_comment_list_item.xml"
+    },
+    {
+        "merged": "D:\\bishe1\\ppjoke_jetpack\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\layout_feed_top_comment.xml",
+        "source": "D:\\bishe1\\ppjoke_jetpack\\app\\src\\main\\res\\layout\\layout_feed_top_comment.xml"
+    },
+    {
+        "merged": "D:\\bishe1\\ppjoke_jetpack\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\layout_feed_detail_type_video_header.xml",
+        "source": "D:\\bishe1\\ppjoke_jetpack\\app\\src\\main\\res\\layout\\layout_feed_detail_type_video_header.xml"
+    },
+    {
+        "merged": "D:\\bishe1\\ppjoke_jetpack\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\layout_feed_author.xml",
+        "source": "D:\\bishe1\\ppjoke_jetpack\\app\\src\\main\\res\\layout\\layout_feed_author.xml"
+    },
+    {
+        "merged": "D:\\bishe1\\ppjoke_jetpack\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_layout_tag_feed_list.xml",
+        "source": "D:\\bishe1\\ppjoke_jetpack\\app\\src\\main\\res\\layout\\activity_layout_tag_feed_list.xml"
+    },
+    {
+        "merged": "D:\\bishe1\\ppjoke_jetpack\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\layout_feed_detail_author_info.xml",
+        "source": "D:\\bishe1\\ppjoke_jetpack\\app\\src\\main\\res\\layout\\layout_feed_detail_author_info.xml"
+    },
+    {
+        "merged": "D:\\bishe1\\ppjoke_jetpack\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\layout_feed_interaction.xml",
+        "source": "D:\\bishe1\\ppjoke_jetpack\\app\\src\\main\\res\\layout\\layout_feed_interaction.xml"
+    },
+    {
+        "merged": "D:\\bishe1\\ppjoke_jetpack\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\layout_feed_detail_bottom_inateraction.xml",
+        "source": "D:\\bishe1\\ppjoke_jetpack\\app\\src\\main\\res\\layout\\layout_feed_detail_bottom_inateraction.xml"
+    },
+    {
+        "merged": "D:\\bishe1\\ppjoke_jetpack\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\layout_tag_feed_list_header.xml",
+        "source": "D:\\bishe1\\ppjoke_jetpack\\app\\src\\main\\res\\layout\\layout_tag_feed_list_header.xml"
+    },
+    {
+        "merged": "D:\\bishe1\\ppjoke_jetpack\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\layout_feed_type_comment.xml",
+        "source": "D:\\bishe1\\ppjoke_jetpack\\app\\src\\main\\res\\layout\\layout_feed_type_comment.xml"
+    },
+    {
+        "merged": "D:\\bishe1\\ppjoke_jetpack\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\layout_feed_type_video.xml",
+        "source": "D:\\bishe1\\ppjoke_jetpack\\app\\src\\main\\res\\layout\\layout_feed_type_video.xml"
+    },
+    {
+        "merged": "D:\\bishe1\\ppjoke_jetpack\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\layout_feed_detail_type_video.xml",
+        "source": "D:\\bishe1\\ppjoke_jetpack\\app\\src\\main\\res\\layout\\layout_feed_detail_type_video.xml"
+    },
+    {
+        "merged": "D:\\bishe1\\ppjoke_jetpack\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\layout_feed_text.xml",
+        "source": "D:\\bishe1\\ppjoke_jetpack\\app\\src\\main\\res\\layout\\layout_feed_text.xml"
+    },
+    {
+        "merged": "D:\\bishe1\\ppjoke_jetpack\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_layout_publish.xml",
+        "source": "D:\\bishe1\\ppjoke_jetpack\\app\\src\\main\\res\\layout\\activity_layout_publish.xml"
+    },
+    {
+        "merged": "D:\\bishe1\\ppjoke_jetpack\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_my.xml",
+        "source": "D:\\bishe1\\ppjoke_jetpack\\app\\src\\main\\res\\layout\\fragment_my.xml"
+    },
+    {
+        "merged": "D:\\bishe1\\ppjoke_jetpack\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\layout_profile_tab_comment_interaction.xml",
+        "source": "D:\\bishe1\\ppjoke_jetpack\\app\\src\\main\\res\\layout\\layout_profile_tab_comment_interaction.xml"
+    },
+    {
+        "merged": "D:\\bishe1\\ppjoke_jetpack\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_sofa.xml",
+        "source": "D:\\bishe1\\ppjoke_jetpack\\app\\src\\main\\res\\layout\\fragment_sofa.xml"
+    },
+    {
+        "merged": "D:\\bishe1\\ppjoke_jetpack\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\layout_feed_type_image.xml",
+        "source": "D:\\bishe1\\ppjoke_jetpack\\app\\src\\main\\res\\layout\\layout_feed_type_image.xml"
+    }
+]

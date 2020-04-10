@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+                                                        
+
+    
+
+                 
+                       
+                          
+
+                 
+                                 
+                                                       
+
+                                                           
+
+           
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/color_white"
+        android:orientation="vertical"
+        android:paddingTop="@dimen/dp_10" android:tag="layout/layout_feed_type_video_0" xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+
+
+        <include
+            layout="@layout/layout_feed_author"
+                                     ></include>
+
+        <include
+            layout="@layout/layout_feed_text"
+                                             
+                            ></include>
+
+
+        <!--   视频区域-->
+        <com.mooc.ppjoke.view.ListPlayerView
+            android:id="@+id/list_player_view"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="@dimen/dp_10"></com.mooc.ppjoke.view.ListPlayerView>
+
+
+        <include
+            layout="@layout/layout_feed_tag"
+                                              ></include>
+
+        <include
+            layout="@layout/layout_feed_top_comment"
+                                            ></include>
+
+        <include
+            android:id="@+id/interaction_binding"
+            layout="@layout/layout_feed_interaction"
+                              
+                                                  ></include>
+    </LinearLayout>
+         

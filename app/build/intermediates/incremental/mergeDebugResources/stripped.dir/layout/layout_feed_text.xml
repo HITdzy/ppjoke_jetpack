@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+                                                   
+
+    
+
+                 
+                           
+                                      
+
+                 
+                        
+                                       
+
+                                                       
+
+                                                  
+           
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="@dimen/dp_16"
+        android:layout_marginRight="@dimen/dp_16"
+        android:layout_marginBottom="@dimen/dp_10"
+        android:ellipsize="end"
+                                   
+        android:orientation="vertical"
+                                  
+        android:textColor="@color/color_2f2"
+        android:textSize="@dimen/sp_16"
+        android:tag="layout/layout_feed_text_0"                                   
+        tools:text="神秘的jetpack神秘的jetpack"  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools">
+
+    </TextView>
+         

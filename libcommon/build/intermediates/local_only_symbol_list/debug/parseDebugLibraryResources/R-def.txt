@@ -1,0 +1,20 @@
+R_DEF: Internal format may change without notice
+local
+attr? clip_radius
+attr? clip_side
+drawable icon_empty_no_data
+id all
+id bottom
+id empty_action
+id empty_icon
+id empty_text
+id left
+id loading_layout
+id loading_text
+id progress_circular
+id right
+id top
+layout layout_empty_view
+layout layout_loading_view
+string app_name
+styleable viewOutLineStrategy clip_radius clip_side
